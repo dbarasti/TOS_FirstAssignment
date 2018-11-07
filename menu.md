@@ -1,8 +1,9 @@
 1143026
 Pizzeria Bella Napoli
 
-[Margherita](margherita.md)
+Pizze
+[Margherita](./pizze/margherita.md)
 
-[Capricciosa](capricciosa.md)
+[Capricciosa](./pizze/capricciosa.md)
 
 Pizzeria Bella Napoli
