@@ -7,5 +7,6 @@ Pizze
 [Capricciosa](./pizze/capricciosa.md)
 
 Primi
+[Bucatini alla matriciana](./primi/bucatini_matriciana.md)
 
 Pizzeria Bella Napoli
