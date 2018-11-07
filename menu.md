@@ -6,4 +6,6 @@ Pizze
 
 [Capricciosa](./pizze/capricciosa.md)
 
+Primi
+
 Pizzeria Bella Napoli
